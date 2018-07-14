@@ -29,13 +29,13 @@ li {
   padding-bottom:10px;
   text-align:center;
   line-height: 40px;
-	height:40px;
-	width:190px;
-	white-space:nowrap;
+  height:40px;
+  width:190px;
+  white-space:nowrap;
   background: #FFFFFF;
-	font-size:100%;
-	border-left: solid 1px #000000;
-	letter-spacing: 0.05em;
+  font-size:100%;
+  border-left: solid 1px #000000;
+  letter-spacing: 0.05em;
 }
 
 .main {
@@ -50,6 +50,15 @@ li {
   margin:auto;
   width:1000px;
   padding:10px;
+}
+
+.clear {
+  clear:both;
+}
+
+.register {
+  width:1000px;
+  margin:auto;
 }
 
 .footer {
