@@ -52,6 +52,10 @@ li {
   padding:10px;
 }
 
+.clear {
+  clear:both;
+}
+
 .program {
   display:block;
   width:1000px;
@@ -72,10 +76,4 @@ li {
 
 .footer p {
   text-align:center;
-}
-
-.abouts {
-  display:block;
-  width:1000px;
-  margin:auto;
 }
