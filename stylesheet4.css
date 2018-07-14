@@ -57,6 +57,7 @@ li {
 }
 
 .register {
+  display:block;
   width:1000px;
   margin:auto;
 }
