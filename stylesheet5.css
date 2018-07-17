@@ -51,13 +51,6 @@ li {
   width:1000px;
   padding:10px;
 }
-
-.about {
-  display:block;
-  width:1000px;
-  margin:auto;
-}
-
 .clear {
   clear:both;
 }
@@ -71,6 +64,10 @@ li {
 .access-word {
   width:500px;
   float:left;
+}
+
+.access-word p {
+  padding-left : 3em;
 }
 
 .access-map {
@@ -87,10 +84,4 @@ li {
 
 .footer p {
   text-align:center;
-}
-
-.abouts {
-  display:block;
-  width:1000px;
-  margin:auto;
 }

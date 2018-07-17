@@ -62,24 +62,8 @@ li {
   clear:both;
 }
 
-.date p {
-  padding-left: 5em;
-}
-
-.place p {
-  padding-left: 5em;
-}
-
-.target p {
-  padding-left: 5em;
-}
-
-.purpose p {
-  padding-left: 5em;
-}
-
-.sponser p {
-  padding-left: 5em;
+.about p {
+  padding-left: 3em;
 }
 
 .footer {
@@ -92,10 +76,4 @@ li {
 
 .footer p {
   text-align:center;
-}
-
-.abouts {
-  display:block;
-  width:1000px;
-  margin:auto;
 }

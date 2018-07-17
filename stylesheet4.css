@@ -62,6 +62,10 @@ li {
   margin:auto;
 }
 
+.register p {
+  padding-left: 3em;
+}
+
 .footer {
   bottom: 0;
   height: 100px;
